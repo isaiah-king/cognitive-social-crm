@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: scottda-crm-1
-  host: scottda-crm-1
+  name: cognitive-social-crm
+  host: cognitive-social-crm
   disk_quota: 1024M
